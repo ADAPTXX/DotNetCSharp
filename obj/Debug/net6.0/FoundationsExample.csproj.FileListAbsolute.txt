@@ -1,0 +1,15 @@
+C:\workspace\CSharpDotNet\FoundationsExample\bin\Debug\net6.0\FoundationsExample.exe
+C:\workspace\CSharpDotNet\FoundationsExample\bin\Debug\net6.0\FoundationsExample.deps.json
+C:\workspace\CSharpDotNet\FoundationsExample\bin\Debug\net6.0\FoundationsExample.runtimeconfig.json
+C:\workspace\CSharpDotNet\FoundationsExample\bin\Debug\net6.0\FoundationsExample.dll
+C:\workspace\CSharpDotNet\FoundationsExample\bin\Debug\net6.0\FoundationsExample.pdb
+C:\workspace\CSharpDotNet\FoundationsExample\obj\Debug\net6.0\FoundationsExample.csproj.AssemblyReference.cache
+C:\workspace\CSharpDotNet\FoundationsExample\obj\Debug\net6.0\FoundationsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharpDotNet\FoundationsExample\obj\Debug\net6.0\FoundationsExample.AssemblyInfoInputs.cache
+C:\workspace\CSharpDotNet\FoundationsExample\obj\Debug\net6.0\FoundationsExample.AssemblyInfo.cs
+C:\workspace\CSharpDotNet\FoundationsExample\obj\Debug\net6.0\FoundationsExample.csproj.CoreCompileInputs.cache
+C:\workspace\CSharpDotNet\FoundationsExample\obj\Debug\net6.0\FoundationsExample.dll
+C:\workspace\CSharpDotNet\FoundationsExample\obj\Debug\net6.0\refint\FoundationsExample.dll
+C:\workspace\CSharpDotNet\FoundationsExample\obj\Debug\net6.0\FoundationsExample.pdb
+C:\workspace\CSharpDotNet\FoundationsExample\obj\Debug\net6.0\FoundationsExample.genruntimeconfig.cache
+C:\workspace\CSharpDotNet\FoundationsExample\obj\Debug\net6.0\ref\FoundationsExample.dll
