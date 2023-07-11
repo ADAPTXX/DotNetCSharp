@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Test");
 Console.WriteLine("Updating in Git");
+Console.WriteLine("Updating in VSCode");
